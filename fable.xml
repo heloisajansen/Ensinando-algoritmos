@@ -22,5 +22,6 @@
   </page>
     <page background="bgColor.png">
         <agent video="variaveis.mp4" x="32" y="148" width="430" height="280"</agent>
+        <agent text="Voltar" font-size="22" color="darkgray" x="300" y="50" widht="500" height="100"></agent>
     </page>
 </fable>
