@@ -23,6 +23,6 @@
   </page>
     <page background="bgColor.png">
         <agent video="variaveis.mp4" x="32" y="148" width="430" height="280"</agent>
-        <agent img="goBack.png" x="430" y="10" width="50" height="50" on-touch="_GOTO_PAGE:3"></agent>
+     
     </page>
 </fable>
