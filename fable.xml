@@ -27,9 +27,10 @@
     
       <page background="bgColor.png">
             <agent video="variaveis.mp4" x="32" y="148" width="430" height="280"</agent>
+          <agent
      </page>
 
     <page background="bgColor.png">
-        <agent img=></agent>
+        <agent text="Exemplo" font-size="22" color="dimgray" x="135" y="350" width="500" height="100"></agent>
     </page>
 </fable>
