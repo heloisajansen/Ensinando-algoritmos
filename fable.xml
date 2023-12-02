@@ -27,7 +27,10 @@
     
       <page background="bgColor.png">
           <agent video="variaveis.mp4" x="32" y="148" width="430" height="280"></agent>
-          <agent img="goBack" x="460" y="475" width="20" height="20" on-touch="_GOTO_PAGE:2"/>
       </page>
+
+    <page background="goBack.png">
+        <agent text="O que são " font-size="22" color="dimgray" x="135" y="350" widht="500" height="100"></agent>
+    </page>
     
 </fable>
