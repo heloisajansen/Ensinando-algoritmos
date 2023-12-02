@@ -21,6 +21,6 @@
       <agent text="Exemplo" font-size="22" color="darkgray" x="300" y="50" widht="500" height="100"></agent>
   </page>
     <page background="bgColor.png">
-        <agent video="variaveis.mp4" x="50" y="50" width="5" height="500" draggable="true"</agent>
+        <agent video="variaveis.mp4" x="50" y="50" width="400" height="500" draggable="true"</agent>
     </page>
 </fable>
