@@ -23,7 +23,8 @@
 </page>
     <page background="bgColor.png">
         <agent video="variaveis.mp4" x="32" y="148" width="430" height="280"</agent>
-</page>
-
-<page
+    </page>
+    <page> 
+        <agent>
+    </page>
 </fable>
