@@ -1,6 +1,11 @@
 <fable>
-	<page>
-  
-    
+	<page background="bgColor.png">
+        <agent text="Vamos aprender algoritmos" font-size="22" color="dimgray" x="88" y="350" width = "500" height = "100"></agent>
+        <agent img="start.png" x="195" y="200" width="100" height="100" on-touch="_NEXT_PAGE"></agent>
+  </page>
+  <page background="bgColor.png">
+    <agent text="O que gostaria de aprender?" font-size="22" color="dimgray" x="88" y="350" width="500" height="100"></agent>
+    <agent img="whiteButton.png" x="40" y="250" width="150" height="200"></agent
+    <agent img="whiteButton.png" x="40" y="250" width="150" height="200"></agent                                
   </page>
 </fable>
