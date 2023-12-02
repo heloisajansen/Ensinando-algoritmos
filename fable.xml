@@ -33,7 +33,7 @@
 
     <page background="bgColor.png">
         <agent text="Exemplo:" font-size="22" color="dimgray" x="30" y="250" width="500" height="100"></agent>
-        <agent img="exemplo01.jpg" x="30"
+        <agent img="exemplo01.jpg" x="100" y="250" width="300" height="300"/>
         <agent img="goBack.png" x="430" y="10" width="50" height="50" on-touch="_GOTO_PAGE:3"></agent>
     </page>
     
