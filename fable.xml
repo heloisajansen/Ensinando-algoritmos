@@ -30,7 +30,7 @@
       </page>
 
     <page background="goBack.png">
-        <agent text=
+        <agent text="Exemplo" font-size="22" color="dimgray" x="30" y="250" width="500" height="100"></agent>
     </page>
     
 </fable>
