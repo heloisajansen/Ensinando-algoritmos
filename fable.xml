@@ -5,7 +5,22 @@
   </page>
   <page background="bgColor.png">
     <agent text="O que gostaria de aprender?" font-size="22" color="dimgray" x="88" y="350" width="500" height="100"></agent>
-    <agent img="whiteButton.png" x="40" y="250" width="150" height="200"></agent
-    <agent img="whiteButton.png" x="40" y="250" width="150" height="200"></agent                                
+    <agent img="whiteButton.png" x="40" y="250" width="150" height="200" on-touch="_NEXT_PAGE"></agent>
+    <agent img="whiteButton.png" x="320" y="250" width="150" height="200"></agent>
+    <agent img="whiteButton.png" x="40" y="100" width="150" height="200"></agent>
+    <agent img="whiteButton.png" x="320" y="100" width="150" height="200"></agent>
+    <agent text="Variáveis" font-size="22" color="dimgray" x="60" y="190" width="100" height="150"></agent>
+    <agent text="Condições" font-size="22" color="dimgray" x="335" y="190" width="10" height="150"></agent>
+    <agent text="Repetições" font-size="22" color="dimgray" x="52" y="40" width="10" height="150"></agent>
+    <agent text="Vetores" font-size="22" color="dimgray" x="350" y="40" width="10" height="150"></agent>
   </page>
+  <page background="bgColor.png">
+      <agent text="O que são variáveis?" font-size="22" color="dimgray" x="135" y="350" widht="500" height="100"></agent>
+      <agent text="Variáveis em programação são elementos cruciais que armazenam dados mutáveis durante a execução do código" font-size="22" color="dimgray" x="30" y="250" widht="500" height="100"></agent>
+      <agent text="Ver vídeo" font-size="22" color="darkgray" x="100" y="50" widht="500" height="100" on-touch="_NEXT_PAGE"></agent>
+      <agent text="Exemplo" font-size="22" color="darkgray" x="300" y="50" widht="500" height="100"></agent>
+  </page>
+    <page background="bgColor.png">
+        <agent video="mov.mp4" x="50" y="50" width="300" height="300" draggable="true"</agent>
+    </page>
 </fable>
