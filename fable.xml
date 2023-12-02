@@ -27,7 +27,7 @@
     
       <page background="bgColor.png">
             <agent video="variaveis.mp4" x="32" y="148" width="430" height="280"</agent>
-          <teste
+          <agent img="goBack.png" x="0" y="40" width="500" height="500" on-touch="trans1"/>
      </page>
 
     <page background="bgColor.png">
