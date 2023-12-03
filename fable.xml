@@ -58,6 +58,8 @@
 
     <page background="bgColor.png">
         <agent text="Exemplo:" font-size="22" color="dimgray" x="30" y="250" width="500" height="100"></agent>
+        <agent text="Idade = 18" font-size="22" color="dimgray" x="300" y="250" width="500" height="100"/>
+        <agent text="if Idade >= 18:" font-size="22" color="dimgray" x="300" y="220" width="500" height="100"/>
     </page>
         
     
