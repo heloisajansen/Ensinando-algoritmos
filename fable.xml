@@ -8,7 +8,7 @@
   <page background="bgColor.png">
     <agent text="O que gostaria de aprender?" font-size="22" color="dimgray" x="88" y="350" width="500" height="100"></agent>
     <agent img="whiteButton.png" x="40" y="250" width="150" height="200" on-touch="_NEXT_PAGE"></agent>
-    <agent img="whiteButton.png" x="320" y="250" width="150" height="200"></agent>
+    <agent img="whiteButton.png" x="320" y="250" width="150" height="200" on-touch="_GOTO_PAGE:6"></agent>
     <agent img="whiteButton.png" x="40" y="100" width="150" height="200"></agent>
     <agent img="whiteButton.png" x="320" y="100" width="150" height="200"></agent>
     <agent text="Variáveis" font-size="22" color="dimgray" x="60" y="190" width="100" height="150"></agent>
@@ -44,7 +44,8 @@
     </page>
 
     <page background="bgColor.png">
-        <agent text="O que são condi?" font-size="22" color="dimgray" x="135" y="350" widht="500" height="100"></agent>
+        <agent text="O que são condições?" font-size="22" color="dimgray" x="135" y="350" widht="500" height="100"></agent>
+        <agent img="goBack.png" x="430" y="10" width="50" height="50" on-touch="_GOTO_PAGE:3"></agent>
     </page>
     
 </fable>
