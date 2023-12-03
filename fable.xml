@@ -66,7 +66,7 @@
         <agent img="goBack.png" x="430" y="10" width="50" height="50" on-touch="_GOTO_PAGE:6"></agent>
     </page>
         
-    <page>
-        
+    <page background="bgColor.png">
+        <agent text="O que são repetições?" font-size="22" color="dimgray" x="135" y="350" widht="500" height="100"></agent>
     </page>
 </fable>
