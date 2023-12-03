@@ -89,4 +89,6 @@
         <agent text="3" font-size="22" color="dimgray" x="30" y="70" width="500" height="100"></agent>
         <agent img="goBack.png" x="430" y="10" width="50" height="50" on-touch="_GOTO_PAGE:9"></agent>
     </page>
+
+    <page
 </fable>
