@@ -78,4 +78,14 @@
         <agent video="repeticoes.mp4" x="32" y="148" width="430" height="280"/>
         <agent img="goBack.png" x="430" y="10" width="50" height="50" on-touch="_GOTO_PAGE:9"></agent>
     </page>
+
+    <page background="bgColor.png">
+        <agent text="Exemplo:" font-size="22" color="dimgray" x="30" y="250" width="500" height="100"></agent>
+        <agent text="aprovado = True" font-size="22" color="dimgray" x="250" y="250" width="500" height="100"/>
+        <agent text="if aprovado == True:" font-size="22" color="dimgray" x="250" y="220" width="500" height="100"/>
+        <agent text="print(aprovado)" font-size="22" color="dimgray" x="280" y="190" width="500" height="100"></agent>
+        <agent text="Output:" font-size="22" color="dimgray" x="30" y="160" width="500" height="100"></agent>
+        <agent text="True" font-size="22" color="dimgray" x="30" y="120" width="500" height="100"></agent>
+        <agent img="goBack.png" x="430" y="10" width="50" height="50" on-touch="_GOTO_PAGE:9"></agent>
+    </page>
 </fable>
