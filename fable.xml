@@ -73,4 +73,8 @@
         <agent img="goBack.png" x="430" y="10" width="50" height="50" on-touch="_GOTO_PAGE:2"></agent>
         <agent text="Exemplo" font-size="22" color="darkgray" x="300" y="50" widht="500" height="100" on-touch="_GOTO_PAGE:11"></agent>
     </page>
+
+    <page background="bgColor.png">
+        
+    </page>
 </fable>
