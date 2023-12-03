@@ -58,8 +58,9 @@
 
     <page background="bgColor.png">
         <agent text="Exemplo:" font-size="22" color="dimgray" x="30" y="250" width="500" height="100"></agent>
-        <agent text="aprovado = True" font-size="22" color="dimgray" x="300" y="250" width="500" height="100"/>
-        <agent text="if aprovado == True:" font-size="22" color="dimgray" x="300" y="220" width="500" height="100"/>
+        <agent text="aprovado = True" font-size="22" color="dimgray" x="200" y="250" width="500" height="100"/>
+        <agent text="if aprovado == True:" font-size="22" color="dimgray" x="200" y="220" width="500" height="100"/>
+        <agent text="print(aprovado)" font-size="22" color="dimgray" x="250" y="190" width="500" height="100"></agent>
     </page>
         
     
