@@ -68,5 +68,6 @@
         
     <page background="bgColor.png">
         <agent text="O que são repetições?" font-size="22" color="dimgray" x="135" y="350" widht="500" height="100"></agent>
+        <agent text="Condições são estruturas essenciais em programação que permitem controlar o fluxo de um programa com base em avaliações lógicas. Elas são usadas para tomar decisões e executar diferentes blocos de código dependendo se uma condição é verdadeira ou falsa." font-size="22" color="dimgray" x="30" y="250" widht="500" height="100"></agent>
     </page>
 </fable>
