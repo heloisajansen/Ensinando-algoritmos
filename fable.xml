@@ -105,8 +105,8 @@
 
     <page background="bgColor.png">
         <agent text="Exemplo:" font-size="22" color="dimgray" x="30" y="250" width="500" height="100"></agent>
-        <agent text="for i in range (1,4):" font-size="22" color="dimgray" x="250" y="250" width="500" height="100"/>
-        <agent text="print(i)" font-size="22" color="dimgray" x="280" y="220" width="500" height="100"/>
+        <agent text="v = [1,2,3,4]" font-size="22" color="dimgray" x="250" y="250" width="500" height="100"/>
+        <agent text="print(v[0] + v[2])" font-size="22" color="dimgray" x="250" y="220" width="500" height="100"/>
         <agent text="Output:" font-size="22" color="dimgray" x="30" y="160" width="500" height="100"></agent>
         <agent text="1" font-size="22" color="dimgray" x="30" y="120" width="500" height="100"></agent>
         <agent text="2" font-size="22" color="dimgray" x="30" y="95" width="500" height="100"></agent>
