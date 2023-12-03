@@ -37,8 +37,9 @@
         <agent text="print(Idade)" font-size="22" color="dimgray" x="300" y="220" width="500" height="100"></agent>
         <agent text="Idade += 1" font-size="22" color="dimgray" x="300" y="190" width="500" height="100"></agent>
         <agent text="print(Idade)" font-size="22" color="dimgray" x="300" y="160" width="500" height="100"></agent>
-        <agent text="Resultado:" font-size="22" color="dimgray" x="30" y="160" width="500" height="100"></agent>
-        <agent text="Result" font-size="22" color="dimgray" x="30" y="160" width="500" height="100"></agent>
+        <agent text="Output:" font-size="22" color="dimgray" x="30" y="160" width="500" height="100"></agent>
+        <agent text="3" font-size="22" color="dimgray" x="30" y="120" width="500" height="100"></agent>
+        <agent text="4" font-size="22" color="dimgray" x="30" y="90" width="500" height="100"></agent>
         <agent img="goBack.png" x="430" y="10" width="50" height="50" on-touch="_GOTO_PAGE:3"></agent>
     </page>
     
